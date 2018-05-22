@@ -33,4 +33,6 @@ officers:
     title: "Tech Lead"
     desc: "To infinity, and beyond!"
     img: "ext.jpg"
+members:
+alumni:
 ---

@@ -36,7 +36,7 @@ layout: default
 		<div class="card-wrapper">
 			{% for person in page.officers %}
 				<div class="card" style="width: 18rem;">
-				  {% assign urlhead = '/assets/img/' %}
+				  {% assign urlhead = '/assets/profiles/' %}
 				  {% assign url = urlhead | append: person[1].img %}
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
@@ -55,7 +55,7 @@ layout: default
 		<div class="card-wrapper">
 			{% for person in page.members %}
 				<div class="card" style="width: 18rem;">
-				  {% assign urlhead = '/assets/img/' %}
+				  {% assign urlhead = '/assets/profiles/' %}
 				  {% assign url = urlhead | append: person[1].img %}
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
@@ -73,7 +73,7 @@ layout: default
 		<div class="card-wrapper">
 			{% for person in page.alumni %}
 				<div class="card" style="width: 18rem;">
-				  {% assign urlhead = '/assets/img/' %}
+				  {% assign urlhead = '/assets/profiles/' %}
 				  {% assign url = urlhead | append: person[1].img %}
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
