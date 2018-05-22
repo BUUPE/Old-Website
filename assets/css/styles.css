@@ -12,6 +12,11 @@ div.spacer {
   	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
+.nav-spacer {
+	width: 100vw;
+	height: 55px;
+}
+
 @media only screen and (max-width: 768px) {
    .navbar.bg-scarlet {
 		background-color: #333 !important;
@@ -57,25 +62,7 @@ div.spacer {
 	z-index: 1;
 }
 
-#cover {
-	width: 100vw;
-	height: 50vh;
-	background-image: url("/assets/img/skyline.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    position: relative;
-}
 
-#cover h1 {
-	z-index: 2;
-	padding: 10px;
-}
 
 
 ul.navbar-nav {
@@ -126,3 +113,5 @@ body {
   box-shadow: 0 -3px 6px rgba(0,0,0,0.16), 0 -3px 6px rgba(0,0,0,0.23);
   border-bottom: 3px solid #f21131;
 }
+
+
