@@ -22,7 +22,9 @@ layout: default
 	    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 	}
 
-	
+	.card-icon {
+		font-size: 2rem;
+	}
 </style>
 
 <div class="nav-spacer"></div>
@@ -31,7 +33,9 @@ layout: default
 
 <div class="container">
 	<section>
-		<h1>Officers</h1>
+		{% if page.officers %}
+			<h1>Officers</h1>
+		{% endif %}
 
 		<div class="card-wrapper">
 			{% for person in page.officers %}
@@ -40,9 +44,24 @@ layout: default
 				  {% assign url = urlhead | append: person[1].img %}
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
-				    <h5 class="card-title">{{ person[1].name }}</h5>
+				    <h5 class="card-title">{{ person[0] }}</h5>
 		    		<h6 class="card-subtitle mb-2 text-muted">{{ person[1].title }}</h6>
 				    <p class="card-text">{{ person[1].desc }}</p>
+				    {% if person[1].social %}
+						<hr>
+						{% if person[1].social.facebook %}
+						<a href="{{ person[1].social.facebook }}"><i class="card-icon fab fa-facebook-square"></i></a>
+						{% endif %}
+						{% if person[1].social.twitter %}
+						<a href="{{ person[1].social.twitter }}"><i class="card-icon fab fa-twitter-square"></i></a>
+						{% endif %}
+						{% if person[1].social.linkedin %}
+						<a href="{{ person[1].social.linkedin }}"><i class="card-icon fab fa-linkedin"></i></a>
+						{% endif %}
+						{% if person[1].social.email %}
+						<a href="mailto:{{ person[1].social.email }}"><i class="card-icon fas fa-envelope-square"></i></a>
+						{% endif %}
+					{% endif %}
 				  </div>
 				</div>
 			{% endfor %}
@@ -50,7 +69,9 @@ layout: default
 
 	</section>
 	<section>
-		<h1>Members</h1>
+		{% if page.members %}
+			<h1>Members</h1>
+		{% endif %}
 
 		<div class="card-wrapper">
 			{% for person in page.members %}
@@ -59,7 +80,7 @@ layout: default
 				  {% assign url = urlhead | append: person[1].img %}
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
-				    <h5 class="card-title">{{ person[1].name }}</h5>
+				    <h5 class="card-title">{{ person[0] }}</h5>
 				    <p class="card-text">{{ person[1].desc }}</p>
 				  </div>
 				</div>
@@ -68,7 +89,9 @@ layout: default
 
 	</section>
 	<section>
-		<h1>Alumni</h1>
+		{% if page.alumni %}
+			<h1>Alumni</h1>
+		{% endif %}
 
 		<div class="card-wrapper">
 			{% for person in page.alumni %}
@@ -77,7 +100,7 @@ layout: default
 				  {% assign url = urlhead | append: person[1].img %}
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
-				    <h5 class="card-title">{{ person[1].name }}</h5>
+				    <h5 class="card-title">{{ person[0] }}</h5>
 				    <p class="card-text">{{ person[1].desc }}</p>
 				  </div>
 				</div>
