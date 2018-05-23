@@ -1,5 +1,5 @@
 ---
-layout: construction
+layout: events
 title: Events
 permalink: /events
 ---
