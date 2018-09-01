@@ -41,8 +41,8 @@ body {
 
 .navbar.bg-scarlet {
 	background-color: transparent;
-	transition: background-color 0.5s ease;
-	transition: box-shadow 0.5s ease;
+	transition-property: background-color, box-shadow;
+	transition-duration: .5s;
 	padding: 0;
 	border-top: 3px solid #f21131;
 	height: 55px;
