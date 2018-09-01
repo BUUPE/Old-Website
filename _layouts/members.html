@@ -58,6 +58,9 @@ layout: default
 						{% if person[1].social.linkedin %}
 						<a href="{{ person[1].social.linkedin }}"><i class="card-icon fab fa-linkedin"></i></a>
 						{% endif %}
+						{% if person[1].social.github %}
+						<a href="{{ person[1].social.github }}"><i class="card-icon fab fa-github"></i></a>
+						{% endif %}
 						{% if person[1].social.email %}
 						<a href="mailto:{{ person[1].social.email }}"><i class="card-icon fas fa-envelope-square"></i></a>
 						{% endif %}
@@ -82,6 +85,24 @@ layout: default
 				  <div class="card-body">
 				    <h5 class="card-title">{{ person[0] }}</h5>
 				    <p class="card-text">{{ person[1].desc }}</p>
+				    {% if person[1].social %}
+						<hr>
+						{% if person[1].social.facebook %}
+						<a href="{{ person[1].social.facebook }}"><i class="card-icon fab fa-facebook-square"></i></a>
+						{% endif %}
+						{% if person[1].social.twitter %}
+						<a href="{{ person[1].social.twitter }}"><i class="card-icon fab fa-twitter-square"></i></a>
+						{% endif %}
+						{% if person[1].social.linkedin %}
+						<a href="{{ person[1].social.linkedin }}"><i class="card-icon fab fa-linkedin"></i></a>
+						{% endif %}
+						{% if person[1].social.github %}
+						<a href="{{ person[1].social.github }}"><i class="card-icon fab fa-github"></i></a>
+						{% endif %}
+						{% if person[1].social.email %}
+						<a href="mailto:{{ person[1].social.email }}"><i class="card-icon fas fa-envelope-square"></i></a>
+						{% endif %}
+					{% endif %}
 				  </div>
 				</div>
 			{% endfor %}
@@ -102,6 +123,24 @@ layout: default
 				  <div class="card-body">
 				    <h5 class="card-title">{{ person[0] }}</h5>
 				    <p class="card-text">{{ person[1].desc }}</p>
+				    {% if person[1].social %}
+						<hr>
+						{% if person[1].social.facebook %}
+						<a href="{{ person[1].social.facebook }}"><i class="card-icon fab fa-facebook-square"></i></a>
+						{% endif %}
+						{% if person[1].social.twitter %}
+						<a href="{{ person[1].social.twitter }}"><i class="card-icon fab fa-twitter-square"></i></a>
+						{% endif %}
+						{% if person[1].social.linkedin %}
+						<a href="{{ person[1].social.linkedin }}"><i class="card-icon fab fa-linkedin"></i></a>
+						{% endif %}
+						{% if person[1].social.github %}
+						<a href="{{ person[1].social.github }}"><i class="card-icon fab fa-github"></i></a>
+						{% endif %}
+						{% if person[1].social.email %}
+						<a href="mailto:{{ person[1].social.email }}"><i class="card-icon fas fa-envelope-square"></i></a>
+						{% endif %}
+					{% endif %}
 				  </div>
 				</div>
 			{% endfor %}

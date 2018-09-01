@@ -3,63 +3,63 @@ layout: members
 title: Our Members
 permalink: /members
 officers:
-  Barack Obama:
-    title: "President"
-    desc: "Yes We Can!"
-    img: "obama.jpg"
-    social:
-      facebook: "https://www.facebook.com/upeatbu/"
-      twitter: "https://www.facebook.com/upeatbu/"
-      linkedin: "https://www.facebook.com/upeatbu/"
-  Dick Cheney:
-    title: "Vice President"
-    desc: "A fun guy"
-    img: "dick.jpg"
-    social:
-      email: "upe@bu.edu"
-  George Washington:
-    title: "Treasurer"
-    desc: "Wait a minute, I should be president!"
-    img: "george.jpg"
-  Alexander Hamilton:
-    title: "Secretary"
-    desc: "I have a play named after me!"
-    img: "alex.jpg"
-  Benjamin Franklin:
-    title: "Social Chair"
-    desc: "Come join in the festivities!"
-    img: "ben.jpg"
-  Elon Musk:
-    title: "Tech Lead"
-    desc: "To infinity, and beyond!"
-    img: "elon.jpg"
-members:
   Alan Burstein:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
-  Ashley Deshields:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
-  Brian He:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
-  Jason Cho:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
-  Julius Frost:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
-  Mike Speight:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
-  Rachel Yang:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
+    title: "President"
+    img: "alan.jpg"
+    social:
+      facebook: "https://www.facebook.com/alan.burstein.560"
+      linkedin: "https://www.linkedin.com/in/alan-burstein/"
+      github: "https://github.com/osirissc2"
+      email: "alanbur@bu.edu"
   Rudhra Raveendran:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
+    title: "Vice President"
+    img: "rudy.jpg"
+    social:
+      facebook: "https://www.facebook.com/sooperooday/"
+      twitter: "https://twitter.com/sooperooday"
+      linkedin: "https://www.linkedin.com/in/rooday/"
+      github: "https://github.com/ROODAY"
+      email: "rooday@bu.edu"
   Sumara Ali:
-    desc: "A member of BU UPE's founding class"
-    img: "default.jpg"
+    title: "Treasurer"
+    img: "sumara.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/sumara-ali/"
+      github: "https://github.com/sumara523"
+      email: "alisum@bu.edu"
+  Jason Cho:
+    title: "Director of Operations"
+    img: "jason.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/jason-j-cho/"
+      github: "https://github.com/jjuncho"
+      email: "jjuncho@bu.edu"
+  Julius Frost:
+    title: "Director of Internal Development"
+    img: "julius.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/juliusfrost/"
+      github: "https://github.com/juliusfrost"
+      email: "juliusf@bu.edu"
+  Brian He:
+    title: "Director of Marketing"
+    img: "brian.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/brian-he/"
+      github: "https://github.com/brianhe12"
+      email: "brianhe@bu.edu"
+  Jinghu Lei:
+    title: "Director of Recruitment"
+    img: "jing.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/jinghu-lei/"
+      github: "https://github.com/jinghul"
+      email: "jinghul@bu.edu"
+members:
+  Rachel Yang:
+    img: "rachel.jpg"
+    social:
+      linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
+      email: "ryang3@bu.edu"
 alumni:
 ---
