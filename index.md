@@ -13,26 +13,12 @@ Our main objective is to supplement the technical disciplines at Boston Universi
 # Core Tenants
 We will adhere to the following core tenants to maintain an inclusive and innovative environment to achieve our goal. 
 
-Make Computer Science Enjoyable 
-- Spark passion for the technical fields 
-- Foster a cooperative and productive environment 
+**Make Computer Science fun** by fostering a cooperative and productive environment.
 
-Innovate Across Technical Sectors 
-- Utilize as well as contribute to disruptive technology 
-- Provide access and guidance to cutting edge technology 
-- Mentor and create impactful projects 
+**Innovate Across Technical Sectors** while utilizing and contributing to new disruptive technologies. We will mentor one another and create impactful and relevant projects.
 
-Ensure Diversity of Thought 
-- Needed for successful and consistent innovation 
-- Model real work environments with many different kinds of people 
+**Ensure Diversity of Thought** for successful and consistent innovation by modeling real work environments with many different kinds of people.
 
-Utilize and Provide New Resources 
-- Cooperate with existing organizations on campus (MIC, BUILDs, SPARK, etc.) 
-- Provide free and highly relevant public events 
-- Forge relationships with companies that will teach us relevant skills and recruit interns and/or employees 
+**Utilize and Provide New Resources** by cooperating with existing organizations on campus and contributing free and highly relevant public events and forming mutually beneficial relationships with companies.
 
-Transparency 
-- Strive for aura of trust and inclusivity 
-- Provide feedback to all applicants 
-- Learn from and document successes and mistakes 
-- Maintain internal trust and never take actions in secret 
+**Transparency** in how we evaluate applicants to create auro of trust and inclusivity while learning from any mistakes we can make.

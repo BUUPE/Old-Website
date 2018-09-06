@@ -81,6 +81,16 @@ ul.navbar-nav {
 
 a.navbar-brand {
 	padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+a.navbar-brand > img {
+  height: 32px;
+  width: 32px;
+  margin-right: 10px; 
 }
 
 a.nav-link:hover {
