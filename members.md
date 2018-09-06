@@ -38,6 +38,8 @@ officers:
     title: "Director of Internal Development"
     img: "julius.jpg"
     social:
+      facebook: "https://www.facebook.com/JuliusFrost0"
+      twitter: "https://twitter.com/Julius_Frost"
       linkedin: "https://www.linkedin.com/in/juliusfrost/"
       github: "https://github.com/juliusfrost"
       email: "juliusf@bu.edu"
