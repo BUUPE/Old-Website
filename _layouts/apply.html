@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<style type="text/css" media="screen">
+	#cover {
+		width: 100vw;
+		height: 70vh;
+		background-image: url("/assets/img/Splash.jpg");
+	    background-attachment: fixed;
+	    background-position: center;
+	    background-repeat: no-repeat;
+	    background-size: cover;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    color: white;
+	    position: relative;
+	}
+
+	#cover h1 {
+		z-index: 2;
+		padding: 10px;
+	}
+</style>
+
+<div id="cover"></div>
+<div class="spacer"></div>
+<div class="container">
+	<section>
+
+		{{ content }}
+		
+	</section>
+</div>
+<div class="spacer"></div>
