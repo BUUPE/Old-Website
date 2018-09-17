@@ -4,28 +4,29 @@ layout: default
 
 <style type="text/css" media="screen">
 	#cover {
-		width: 100vw;
-		height: 70vh;
-		background-image: url("/assets/img/Splash.jpg");
-	    background-attachment: fixed;
-	    background-position: center;
-	    background-repeat: no-repeat;
-	    background-size: cover;
-	    display: flex;
-	    justify-content: center;
-	    align-items: center;
-	    color: white;
-	    position: relative;
+		width: 100%;
 	}
 
-	#cover h1 {
-		z-index: 2;
-		padding: 10px;
+	#cover > img {
+		width: 100%;
+	}
+
+	a {
+		color: #860000;
+		text-decoration: none;
+		transition: color 0.25s ease;
+	}
+
+	a:hover {
+		color: #f21131;
+		text-decoration: none;
 	}
 </style>
 
-<div id="cover"></div>
 <div class="spacer"></div>
+<div id="cover">
+	<img src="{{ "/assets/img/googled.png" | relative_url }}" alt="hidden">
+</div>
 <div class="container">
 	<section>
 
