@@ -8,6 +8,8 @@ permalink: /apply
 
 Please read the information below on membership requirements. If you'd like to know more, shoot us an email at [upeatbu@gmail.com](mailto:upeatbu@gmail.com), or find us at Splash!
 
+## [Apply Now!](https://goo.gl/forms/t3XQUUyTM3TZiNlk2)
+
 ## New Member
 - Attend ⅔ of start of semester events
 	- Events represent what UPE will focus on: professional development/networking, technical skills
@@ -44,5 +46,3 @@ Each class will be the top (based on technical interview score) ~10-15 qualifyin
 
 ## Alumnus
 - Must have been a member of UPE for at least 1 full semester
-
-## [Apply Now!](https://goo.gl/forms/t3XQUUyTM3TZiNlk2)
