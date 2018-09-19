@@ -10,8 +10,8 @@ Upsilon Pi Epsilon (UPE) at BU is an honor society dedicated to promoting excell
 # Our Mission
 Our main objective is to bridge the gap between theory and practical experience at Boston University. We will provide career advice on how to get useful internships and jobs, give a sense of community, develop a professional network, and provide opportunities for relevant and practical experience.
 
-# Core Tenants
-We will adhere to the following core tenants to maintain an inclusive and innovative environment to achieve our goals. 
+# Core Values
+We will adhere to the following core values to maintain an inclusive and innovative environment to achieve our goals. 
 
 **Make Computer Science fun** by fostering a cooperative and productive environment.
 
