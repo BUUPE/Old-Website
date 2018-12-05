@@ -6,7 +6,7 @@ officers:
   Alan Burstein:
     title: "President"
     desc: "Alpha Class"
-    img: "alan.jpg"
+    img: "alpha/alan.jpg"
     social:
       facebook: "https://www.facebook.com/alan.burstein.560"
       linkedin: "https://www.linkedin.com/in/alan-burstein/"
@@ -15,7 +15,7 @@ officers:
   Rudhra Raveendran:
     title: "Vice President"
     desc: "Alpha Class"
-    img: "rudy.jpg"
+    img: "alpha/rudy.jpg"
     social:
       facebook: "https://www.facebook.com/sooperooday/"
       twitter: "https://twitter.com/sooperooday"
@@ -25,7 +25,7 @@ officers:
   Sumara Ali:
     title: "Treasurer"
     desc: "Alpha Class"
-    img: "sumara.jpg"
+    img: "alpha/sumara.jpg"
     social:
       linkedin: "https://www.linkedin.com/in/sumara-ali/"
       github: "https://github.com/sumara523"
@@ -33,7 +33,7 @@ officers:
   Jason Cho:
     title: "Director of Operations"
     desc: "Alpha Class"
-    img: "jason.jpg"
+    img: "alpha/jason.jpg"
     social:
       linkedin: "https://www.linkedin.com/in/jason-j-cho/"
       github: "https://github.com/jjuncho"
@@ -41,7 +41,7 @@ officers:
   Julius Frost:
     title: "Director of Internal Development"
     desc: "Alpha Class"
-    img: "julius.jpg"
+    img: "alpha/julius.jpg"
     social:
       facebook: "https://www.facebook.com/JuliusFrost0"
       twitter: "https://twitter.com/Julius_Frost"
@@ -51,7 +51,7 @@ officers:
   Brian He:
     title: "Director of Marketing"
     desc: "Alpha Class"
-    img: "brian.jpg"
+    img: "alpha/brian.jpg"
     social:
       linkedin: "https://www.linkedin.com/in/brian-he/"
       github: "https://github.com/brianhe12"
@@ -59,7 +59,7 @@ officers:
   Jinghu Lei:
     title: "Director of Recruitment"
     desc: "Alpha Class"
-    img: "jing.jpg"
+    img: "alpha/jinghu.jpg"
     social:
       linkedin: "https://www.linkedin.com/in/jinghu-lei/"
       github: "https://github.com/jinghul"
@@ -67,60 +67,60 @@ officers:
 members:
   Rachel Yang:
     desc: "Alpha Class"
-    img: "rachel.jpg"
+    img: "alpha/rachel.jpg"
     social:
       linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
       email: "ryang3@bu.edu"
   Benji Spetter-Goldstein:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/benji.jpg"
   Cali Dolfi:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/cali.jpg"
   Darcy Meyer:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/darcy.jpg"
   Deren Singh:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/deren.jpg"
   Gabrielle Chan:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/gabrielle.jpg"
   Ivorine Do:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/ivorine.jpg"
   Jason Li:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/jason.jpg"
   Jorge Nario:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/jorge.jpg"
   Joshua Pei:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/josh.jpg"
   Melissa Lopez:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/melissa.jpg"
   Michael Djaballah:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/mike.jpg"
   Nick Ni:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/nick.jpg"
   Ning Wang:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/ning.jpg"
   Normandie Essig:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/normandie.jpg"
   Priya Kumari:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/priya.jpg"
   Vivian Gunawan:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/vivian.jpg"
   Warren Partridge:
     desc: "Beta Class"
-    img: "default.jpg"
+    img: "beta/warren.jpg"
 alumni:
 ---
