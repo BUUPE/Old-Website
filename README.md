@@ -13,13 +13,41 @@ To add a member to the members page, simply fill out their info in `members.md` 
 
 ```
 Firstname Lastname:
-  desc: "A nice description/bio goes here"
+  year: "2020"
   img: "someimg.jpg"
   social:
     facebook: "https://link.here"
     twitter: "https://link.here"
     linkedin: "https://link.here"
     email: "email@goes.here"
+```
+
+If you're adding a new class (Delta, Gamma, etc.) add that first and then the new members, like so:
+
+```
+Delta Class:
+  Firstname Lastname:
+    year: "2020"
+    img: "someimg.jpg"
+    social:
+      facebook: "https://link.here"
+      twitter: "https://link.here"
+      linkedin: "https://link.here"
+      email: "email@goes.here"
+```
+
+To update a position for eboard, currently some duplication is required. Just copy the information for a person and put it under the position, like so:
+
+```
+President:
+  Firstname Lastname:
+    year: "2020"
+    img: "someimg.jpg"
+    social:
+      facebook: "https://link.here"
+      twitter: "https://link.here"
+      linkedin: "https://link.here"
+      email: "email@goes.here"
 ```
 
 **NOTE:** Jekyll markdown doesn't like tabs, make sure you use spaces for indentation.
