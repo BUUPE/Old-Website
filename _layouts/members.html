@@ -84,6 +84,9 @@ layout: default
               <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
               <div class="card-body">
                 <h5 class="card-title">{{ person[0] }}</h5>
+                {% if person[1].desc %}
+                  <h6 class="card-subtitle mb-2 text-muted">{{ person[1].desc }}</h6>
+                {% endif %}
                 <p class="card-text">{{ person[1].year }}</p>
                 {% if person[1].social %}
                 <hr>
