@@ -6,17 +6,17 @@ officers:
   President:
     Jorge Nario:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "beta/jorge.jpg"
   Vice President:
     Vivian Gunawan:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/vivian.jpg"
   Secretary:
     Rachel Yang:
       alum: false
-      year: "2020"
+      year: "ENG 2020"
       img: "alpha/rachel.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
@@ -24,22 +24,22 @@ officers:
   Director of Operations:
     Ivorine Do:
       alum: false
-      year: "2019"
+      year: "CAS/QST 2019"
       img: "beta/ivorine.jpg"
   Director of Recruitment:
     Melissa Lopez:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/melissa.jpg"
   Director of Internal Development:
     Michael Djaballah:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "beta/mike.jpg"
   Director of Marketing:
     Brian He:
       alum: false
-      year: "2020"
+      year: "ENG 2020"
       img: "alpha/brian.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/brian-he/"
@@ -48,7 +48,7 @@ officers:
   Treasurer:
     Sumara Ali:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "alpha/sumara.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/sumara-ali/"
@@ -58,7 +58,7 @@ members:
   Alpha Class:
     Alan Burstein:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "alpha/alan.jpg"
       social:
         facebook: "https://www.facebook.com/alan.burstein.560"
@@ -67,7 +67,7 @@ members:
         email: "alanbur@bu.edu"
     Brian He:
       alum: false
-      year: "2020"
+      year: "ENG 2020"
       img: "alpha/brian.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/brian-he/"
@@ -75,7 +75,7 @@ members:
         email: "brianhe@bu.edu"
     Jason Cho:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "alpha/jason.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/jason-j-cho/"
@@ -83,7 +83,7 @@ members:
         email: "jjuncho@bu.edu"
     Jinghu Lei:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "alpha/jinghu.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/jinghu-lei/"
@@ -91,7 +91,7 @@ members:
         email: "jinghul@bu.edu"
     Julius Frost:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "alpha/julius.jpg"
       social:
         facebook: "https://www.facebook.com/JuliusFrost0"
@@ -101,14 +101,14 @@ members:
         email: "juliusf@bu.edu"
     Rachel Yang:
       alum: false
-      year: "2020"
+      year: "ENG 2020"
       img: "alpha/rachel.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
         email: "ryang3@bu.edu"
     Rudhra Raveendran:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "alpha/rudy.jpg"
       social:
         facebook: "https://www.facebook.com/sooperooday/"
@@ -118,7 +118,7 @@ members:
         email: "rooday@bu.edu"
     Sumara Ali:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "alpha/sumara.jpg"
       social:
         linkedin: "https://www.linkedin.com/in/sumara-ali/"
@@ -127,35 +127,35 @@ members:
   Beta Class:
     Benji Spetter-Goldstein:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/benji.jpg"
     Cali Dolfi:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/cali.jpg"
     Darcy Meyer:
       alum: false
-      year: "2022"
+      year: "CAS 2022"
       img: "beta/darcy.jpg"
     Deren Singh:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/deren.jpg"
     Gabrielle Chan:
       alum: false
-      year: "2021"
+      year: "ENG 2021"
       img: "beta/gabrielle.jpg"
     Ivorine Do:
       alum: false
-      year: "2019"
+      year: "CAS/QST 2019"
       img: "beta/ivorine.jpg"
     Jason Li:
       alum: false
-      year: "2022"
+      year: "CAS 2022"
       img: "beta/jason.jpg"
     Jorge Nario:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "beta/jorge.jpg"
     Joshua Pei:
       alum: false
@@ -163,34 +163,38 @@ members:
       img: "beta/josh.jpg"
     Melissa Lopez:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/melissa.jpg"
     Michael Djaballah:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "beta/mike.jpg"
     Nick Ni:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/nick.jpg"
     Ning Wang:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/ning.jpg"
     Normandie Essig:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "beta/normandie.jpg"
     Priya Kumari:
       alum: false
-      year: "2021"
+      year: "CAS/QST 2021"
       img: "beta/priya.jpg"
     Vivian Gunawan:
       alum: false
-      year: "2021"
+      year: "CAS 2021"
       img: "beta/vivian.jpg"
     Warren Partridge:
       alum: false
-      year: "2020"
+      year: "CAS 2020"
       img: "beta/warren.jpg"
+    Gaius Octavius Thurinus:
+      alum: false
+      year: "dro nyywcnki nofsmo sc grobo vkxk nov boi gkc rsqr"
+      img: "augustus.png"
 ---
