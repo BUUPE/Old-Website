@@ -9,10 +9,16 @@ officers:
       year: "CAS 2020"
       img: "beta/jorge.jpg"
   Vice President:
-    Vivian Gunawan:
+    Rudhra Raveendran:
       alum: false
-      year: "CAS 2021"
-      img: "beta/vivian.jpg"
+      year: "CAS 2020"
+      img: "alpha/rudy.jpg"
+      social:
+        facebook: "https://www.facebook.com/sooperooday/"
+        twitter: "https://twitter.com/sooperooday"
+        linkedin: "https://www.linkedin.com/in/rooday/"
+        github: "https://github.com/ROODAY"
+        email: "rooday@bu.edu"
   Secretary:
     Rachel Yang:
       alum: false
@@ -22,29 +28,24 @@ officers:
         linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
         email: "ryang3@bu.edu"
   Director of Operations:
-    Ivorine Do:
-      alum: false
-      year: "CAS/QST 2019"
-      img: "beta/ivorine.jpg"
-  Director of Recruitment:
     Melissa Lopez:
       alum: false
       year: "CAS 2021"
       img: "beta/melissa.jpg"
+  Director of Recruitment:
+    Jinghu Lei:
+      alum: false
+      year: "CAS 2020"
+      img: "alpha/jinghu.jpg"
+      social:
+        linkedin: "https://www.linkedin.com/in/jinghu-lei/"
+        github: "https://github.com/jinghul"
+        email: "jinghul@bu.edu"
   Director of Internal Development:
     Michael Djaballah:
       alum: false
       year: "CAS 2020"
       img: "beta/mike.jpg"
-  Director of Marketing:
-    Brian He:
-      alum: false
-      year: "ENG 2020"
-      img: "alpha/brian.jpg"
-      social:
-        linkedin: "https://www.linkedin.com/in/brian-he/"
-        github: "https://github.com/brianhe12"
-        email: "brianhe@bu.edu"
   Treasurer:
     Sumara Ali:
       alum: false
@@ -193,8 +194,4 @@ members:
       alum: false
       year: "CAS 2020"
       img: "beta/warren.jpg"
-    Gaius Octavius Thurinus:
-      alum: false
-      year: "dro nyywcnki nofsmo sc grobo vkxk nov boi gkc rsqr"
-      img: "augustus.png"
 ---
