@@ -6,9 +6,9 @@ permalink: /apply
 
 # Interested in Joining?
 
-Please read the information below on membership requirements. If you'd like to know more, shoot us an email at [upeatbu@gmail.com](mailto:upeatbu@gmail.com), or find us at Splash!
+Please read the information below on membership requirements. If you'd like to know more, shoot us an email at [upe@bu.edu](mailto:upe@bu.edu), or find us at Splash!
 
-## [Apply Now!](https://goo.gl/forms/t3XQUUyTM3TZiNlk2)
+<!--## [Apply Now!](https://goo.gl/forms/t3XQUUyTM3TZiNlk2)-->
 
 ## New Member
 - Attend ⅔ of start of semester events
