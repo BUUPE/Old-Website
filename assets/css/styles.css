@@ -137,3 +137,11 @@ body {
   font-size: 16px; 
   width: 100%;
 }
+
+#apply-now {
+  text-align: center;
+}
+
+#apply-now a {
+  color: #f21131;
+}
