@@ -23,4 +23,4 @@ We will adhere to the following core values to maintain an inclusive and innovat
 
 **Transparency** in how we evaluate applicants to create an aura of trust and inclusivity while learning from any mistakes we make.
 
-## [Apply Now!](https://forms.gle/RRynwBT3eHW7BsT46)
+<!--## [Apply Now!](https://forms.gle/RRynwBT3eHW7BsT46)-->
