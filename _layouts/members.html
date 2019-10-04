@@ -77,38 +77,36 @@ layout: default
 
   		<div class="card-wrapper">
   			{% for person in class[1] %}
-          {% if person[1].alum == false %}
-            <div class="card" style="width: 18rem;">
-              {% assign urlhead = '/assets/profiles/' %}
-              {% assign url = urlhead | append: person[1].img %}
-              <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
-              <div class="card-body">
-                <h5 class="card-title">{{ person[0] }}</h5>
-                {% if person[1].desc %}
-                  <h6 class="card-subtitle mb-2 text-muted">{{ person[1].desc }}</h6>
-                {% endif %}
-                <p class="card-text">{{ person[1].year }}</p>
-                {% if person[1].social %}
-                <hr>
-                {% if person[1].social.facebook %}
-                <a href="{{ person[1].social.facebook }}"><i class="card-icon fab fa-facebook-square"></i></a>
-                {% endif %}
-                {% if person[1].social.twitter %}
-                <a href="{{ person[1].social.twitter }}"><i class="card-icon fab fa-twitter-square"></i></a>
-                {% endif %}
-                {% if person[1].social.linkedin %}
-                <a href="{{ person[1].social.linkedin }}"><i class="card-icon fab fa-linkedin"></i></a>
-                {% endif %}
-                {% if person[1].social.github %}
-                <a href="{{ person[1].social.github }}"><i class="card-icon fab fa-github"></i></a>
-                {% endif %}
-                {% if person[1].social.email %}
-                <a href="mailto:{{ person[1].social.email }}"><i class="card-icon fas fa-envelope-square"></i></a>
-                {% endif %}
+          <div class="card" style="width: 18rem;">
+            {% assign urlhead = '/assets/profiles/' %}
+            {% assign url = urlhead | append: person[1].img %}
+            <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
+            <div class="card-body">
+              <h5 class="card-title">{{ person[0] }}</h5>
+              {% if person[1].desc %}
+                <h6 class="card-subtitle mb-2 text-muted">{{ person[1].desc }}</h6>
               {% endif %}
-              </div>
+              <p class="card-text">{{ person[1].year }}</p>
+              {% if person[1].social %}
+              <hr>
+              {% if person[1].social.facebook %}
+              <a href="{{ person[1].social.facebook }}"><i class="card-icon fab fa-facebook-square"></i></a>
+              {% endif %}
+              {% if person[1].social.twitter %}
+              <a href="{{ person[1].social.twitter }}"><i class="card-icon fab fa-twitter-square"></i></a>
+              {% endif %}
+              {% if person[1].social.linkedin %}
+              <a href="{{ person[1].social.linkedin }}"><i class="card-icon fab fa-linkedin"></i></a>
+              {% endif %}
+              {% if person[1].social.github %}
+              <a href="{{ person[1].social.github }}"><i class="card-icon fab fa-github"></i></a>
+              {% endif %}
+              {% if person[1].social.email %}
+              <a href="mailto:{{ person[1].social.email }}"><i class="card-icon fas fa-envelope-square"></i></a>
+              {% endif %}
+            {% endif %}
             </div>
-          {% endif %}
+          </div>
   			{% endfor %}
   		</div>
   	</section>
@@ -127,7 +125,10 @@ layout: default
 				  <img class="card-img-top rounded-circle" src="{{ url | relative_url }}">
 				  <div class="card-body">
 				    <h5 class="card-title">{{ person[0] }}</h5>
-				    <p class="card-text">{{ person[1].desc }}</p>
+            {% if person[1].desc %}
+              <h6 class="card-subtitle mb-2 text-muted">{{ person[1].desc }}</h6>
+            {% endif %}
+            <p class="card-text">{{ person[1].year }}</p>
 				    {% if person[1].social %}
 						<hr>
 						{% if person[1].social.facebook %}
