@@ -24,6 +24,14 @@ officers:
       social:
         linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
         email: "ryang3@bu.edu"
+  Treasurer:
+    Sumara Ali:
+      year: "CAS 2021"
+      img: "alpha/sumara.jpg"
+      social:
+        linkedin: "https://www.linkedin.com/in/sumara-ali/"
+        github: "https://github.com/sumara523"
+        email: "alisum@bu.edu"
   Director of Operations:
     Melissa Lopez:
       year: "CAS 2021"
@@ -40,14 +48,10 @@ officers:
     Michael Djaballah:
       year: "CAS 2020"
       img: "beta/mike.jpg"
-  Treasurer:
-    Sumara Ali:
+  Director of Marketing:
+    Savannah Cardenas:
       year: "CAS 2021"
-      img: "alpha/sumara.jpg"
-      social:
-        linkedin: "https://www.linkedin.com/in/sumara-ali/"
-        github: "https://github.com/sumara523"
-        email: "alisum@bu.edu"
+      img: "default.jpg"
 members:
   Alpha Class:
     Alan Burstein:
