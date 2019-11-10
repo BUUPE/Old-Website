@@ -10,7 +10,7 @@ officers:
   Vice President:
     Rudhra Raveendran:
       year: "CAS 2020"
-      img: "alpha/rudy.jpg"
+      img: "alpha/rudy.png"
       social:
         facebook: "https://www.facebook.com/sooperooday/"
         twitter: "https://twitter.com/sooperooday"
@@ -20,7 +20,7 @@ officers:
   Secretary:
     Rachel Yang:
       year: "ENG 2020"
-      img: "alpha/rachel.jpg"
+      img: "alpha/rachel.png"
       social:
         linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
         email: "ryang3@bu.edu"
@@ -47,11 +47,11 @@ officers:
   Director of Internal Development:
     Michael Djaballah:
       year: "CAS 2020"
-      img: "beta/mike.jpg"
+      img: "beta/mike.png"
   Director of Marketing:
     Savannah Cardenas:
       year: "CAS 2021"
-      img: "default.jpg"
+      img: "gamma/savannah.png"
 members:
   Alpha Class:
     Alan Burstein:
@@ -94,13 +94,13 @@ members:
         email: "juliusf@bu.edu"
     Rachel Yang:
       year: "ENG 2020"
-      img: "alpha/rachel.jpg"
+      img: "alpha/rachel.png"
       social:
         linkedin: "https://www.linkedin.com/in/rachel-yang-76049312b/"
         email: "ryang3@bu.edu"
     Rudhra Raveendran:
       year: "CAS 2020"
-      img: "alpha/rudy.jpg"
+      img: "alpha/rudy.png"
       social:
         facebook: "https://www.facebook.com/sooperooday/"
         twitter: "https://twitter.com/sooperooday"
@@ -130,21 +130,12 @@ members:
     Gabrielle Chan:
       year: "ENG 2021"
       img: "beta/gabrielle.jpg"
-    Hunter Chun:
-      year: " 2021"
-      img: "default.jpg"
-    Ishmael Perez:
-      year: "CAS 2020"
-      img: "default.jpg"
     Jason Li:
       year: "CAS 2022"
       img: "beta/jason.jpg"
     Jorge Nario:
       year: "CAS 2020"
       img: "beta/jorge.jpg"
-    Joshua Bassin:
-      year: "ENG 2020"
-      img: "default.jpg"
     Joshua Pei:
       year: "2021"
       img: "beta/josh.jpg"
@@ -153,7 +144,7 @@ members:
       img: "beta/melissa.jpg"
     Michael Djaballah:
       year: "CAS 2020"
-      img: "beta/mike.jpg"
+      img: "beta/mike.png"
     Nick Ni:
       year: "CAS 2021"
       img: "beta/nick.jpg"
@@ -166,9 +157,6 @@ members:
     Priya Kumari:
       year: "CAS/QST 2021"
       img: "beta/priya.jpg"
-    Savannah Cardenas:
-      year: "CAS 2021"
-      img: "default.jpg"
     Vivian Gunawan:
       year: "CAS 2021"
       img: "beta/vivian.jpg"
@@ -177,50 +165,62 @@ members:
       img: "beta/warren.jpg"
   Gamma Class:
     Conor Walsh:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/conor.png"
     Delaine Rogers:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2021"
+      img: "gamma/delaine.png"
     Eren Budur:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/eren.png"
     Harry Feng:
-      year: ""
+      year: "CAS 2020"
+      img: "gamma/harry.png"
+    Hunter Chun:
+      year: "CAS 2021"
+      img: "gamma/hunter.png"
+    Ishmael Perez:
+      year: "CAS 2020"
       img: "default.jpg"
     Jae Hong Lee:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/hong.png"
     John Bolognino:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/john.png"
+    Joshua Bassin:
+      year: "ENG 2020"
+      img: "gamma/joshua.png"
     Justin Sayah:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/justin.png"
     Linsy Wang:
-      year: ""
-      img: "default.jpg"
+      year: "CAS/CFA 2022"
+      img: "gamma/linsy.png"
     Lisa Vu:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2020"
+      img: "gamma/lisa.png"
     Noah Jean-Baptiste:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/noah.png"
     Patrick Kuzdzal:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/pat.png"
+    Savannah Cardenas:
+      year: "CAS 2021"
+      img: "gamma/savannah.png"
     Seonghoo Kim:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/seonghoo.png"
     Shawn Lin:
-      year: ""
-      img: "default.jpg"
+      year: "GRS 2020"
+      img: "gamma/shawn.png"
     Vitor Vicente:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2023"
+      img: "gamma/vitor.png"
     Zhenghui Wang:
-      year: ""
-      img: "default.jpg"
+      year: "CAS 2022"
+      img: "gamma/zhenghui.png"
 alumni:
   Ivorine Do:
     year: "CAS/QST 2019"
