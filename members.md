@@ -33,17 +33,18 @@ officers:
         github: "https://github.com/sumara523"
         email: "alisum@bu.edu"
   Director of Operations:
-    Melissa Lopez:
+    Nick Ni:
       year: "CAS 2021"
-      img: "beta/melissa.jpg"
+      img: "beta/nick.jpg"
   Director of Recruitment:
-    Jinghu Lei:
+    Alan Burstein:
       year: "CAS 2020"
-      img: "alpha/jinghu.jpg"
+      img: "alpha/alan.jpg"
       social:
-        linkedin: "https://www.linkedin.com/in/jinghu-lei/"
-        github: "https://github.com/jinghul"
-        email: "jinghul@bu.edu"
+        facebook: "https://www.facebook.com/alan.burstein.560"
+        linkedin: "https://www.linkedin.com/in/alan-burstein/"
+        github: "https://github.com/osirissc2"
+        email: "alanbur@bu.edu"
   Director of Internal Development:
     Michael Djaballah:
       year: "CAS 2020"
