@@ -23,6 +23,7 @@ We will adhere to the following core values to maintain an inclusive and innovat
 
 **Transparency** in how we evaluate applicants to create an aura of trust and inclusivity while learning from any mistakes we make.
 
-<center><h2>Application Opens on 2/3/2020!</h2></center>
-
-<!--## [Apply Now!](https://forms.gle/RRynwBT3eHW7BsT46)-->
+<!--center><h2>Application Opens on 2/3/2020!</h2></center-->
+<center>
+	<h2 id="apply-now"><a target="_blank" href="https://forms.gle/eZAEdbLppgp4ckY7A">Apply Now!</a></h2>
+</center>
