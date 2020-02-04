@@ -25,5 +25,10 @@ We will adhere to the following core values to maintain an inclusive and innovat
 
 <!--center><h2>Application Opens on 2/3/2020!</h2></center-->
 <center>
-	<h2 id="apply-now"><a target="_blank" href="https://forms.gle/eZAEdbLppgp4ckY7A">Apply Now!</a></h2>
+	<h2 class="home-link"><a target="_blank" href="https://forms.gle/eZAEdbLppgp4ckY7A">Spring 2020 Application</a></h2>
 </center>
+
+<center>
+  <h2 class="home-link"><a target="_blank" href="https://forms.gle/XbccvbKHVgiP3HhK8">Sign up for Puzzle Hunt!</a></h2>
+</center>
+

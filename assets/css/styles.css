@@ -138,10 +138,10 @@ body {
   width: 100%;
 }
 
-#apply-now {
+.home-link {
   text-align: center;
 }
 
-#apply-now a {
+.home-link a {
   color: #f21131;
 }
