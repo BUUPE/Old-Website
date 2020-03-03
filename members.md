@@ -203,6 +203,9 @@ members:
       year: "CAS 2020"
       img: "beta/warren.jpg"
       social:
+        website: "http://warrenpartridge.me"
+        linkedin: "https://www.linkedin.com/in/wpartridge/"
+        github: "https://github.com/Warren-Partridgec"
         email: "wpartrid@bu.edu"
   Gamma Class:
     Conor Walsh:
