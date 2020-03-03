@@ -164,10 +164,6 @@ members:
     Warren Partridge:
       year: "CAS 2020"
       img: "beta/warren.jpg"
-    Gaius Octavius Thurinus:
-      alum: false
-      year: "dro nyywcnki nofsmo sc grobo vkxk nov boi gkc rsqr"
-      img: "augustus.png"
   Gamma Class:
     Conor Walsh:
       year: "CAS 2023"
