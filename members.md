@@ -292,6 +292,9 @@ members:
       year: "CAS 2023"
       img: "gamma/vitor.png"
       social:
+        facebook: "https://www.facebook.com/profile.php?id=100001840904972"
+        linkedin: "https://www.linkedin.com/in/vítor-vicente/"
+        github: "https://github.com/vitorvicente"
         email: "vitor@bu.edu"
     Zhenghui Wang:
       year: "CAS 2022"
@@ -307,7 +310,7 @@ alumni:
       email: "ido@bu.edu"
   Lisa Vu:
     year: "CAS 2020"
-    desc: "Beta Class"
+    desc: "Gamma Class"
     img: "gamma/lisa.png"
     social:
       linkedin: "https://www.linkedin.com/in/lisaqvu/"
