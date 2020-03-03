@@ -260,11 +260,6 @@ members:
       img: "gamma/linsy.png"
       social:
         email: "linsyw@bu.edu"
-    Lisa Vu:
-      year: "CAS 2020"
-      img: "gamma/lisa.png"
-      social:
-        email: "lisaqv@bu.edu"
     Noah Jean-Baptiste:
       year: "CAS 2023"
       img: "gamma/noah.png"
@@ -307,4 +302,11 @@ alumni:
     img: "beta/ivorine.jpg"
     social:
       email: "ido@bu.edu"
+  Lisa Vu:
+    year: "CAS 2020"
+    desc: "Beta Class"
+    img: "gamma/lisa.png"
+    social:
+      linkedin: "https://www.linkedin.com/in/lisaqvu/"
+      email: "lisaqv@bu.edu"
 ---
